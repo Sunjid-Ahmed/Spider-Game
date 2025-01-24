@@ -5,7 +5,7 @@
 </p>
 
 ---
-### 🔗🔗 Link: https://rededge967.github.io/Spider-Man
+### 🔗🔗 Link: https://sunjid-ahmed.github.io/Spider-Game/
 ---
 ## Special Notes
 ### What is needed to Play `Spider-Man`
@@ -34,7 +34,7 @@
 -----------
 ## Running `Spider-Man`
 ### Running `online`
-- Go to https://rededge967.github.io/mini-spidey/
+- Go to https://sunjid-ahmed.github.io/Spider-Game/
 ### Running `offline`
 - Download `source.code.zip` from [here](https://github.com/RedEdge967/Spider-Man/releases)
 - Extract the folder
